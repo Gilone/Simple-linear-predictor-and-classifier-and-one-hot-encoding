@@ -2,7 +2,7 @@
 
 ![][version-badge]
 
-It is a sample inspired by UCSD CSE258  
+It is an example inspired by UCSD CSE258  
 
 The input data should be like (date, review text) --> rating
 
